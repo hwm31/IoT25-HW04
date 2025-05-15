@@ -16,7 +16,7 @@ BLECharacteristic *pTxCharacteristic = NULL;
 BLECharacteristic *pRxCharacteristic = NULL;
 bool deviceConnected = false;
 bool oldDeviceConnected = false;
-String device_name = "ihson";  // Using ESP32test as in your screenshots
+String device_name = "ihson";  
 
 // Message buffering variables
 String messageBuffer = "";
