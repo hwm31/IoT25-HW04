@@ -11,6 +11,8 @@
 
 ### BluetoothLE app results
 
+아이폰 사용으로 인해 ppt에 올려주신 사진과 앱상 결과가 다르게 표시되었습니다.
+
 ![overall](https://github.com/user-attachments/assets/a54f6b13-5ba9-4811-9db3-2e718874bd58)
 overall
 
